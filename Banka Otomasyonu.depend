@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1660255902 source:c:\users\tolga\documents\c files\banka otomasyonu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
