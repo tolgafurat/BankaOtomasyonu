@@ -9,3 +9,4 @@ Programın sunduğu özellikler;
 
 İşlem sonunda müşteri bilgileri, hesap bilgileri, banka verilerini ve dekont gibi bilgiler txt dosyalarına yazdırılır, program ilk çalıştırıldığında önceden kayıtlı veriler bu txt dosyalarından okunmaya çalışılır.
 
+Projeye dair bir açıklama pdf'i de yüklenmiştir.
